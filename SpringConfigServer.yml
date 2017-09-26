@@ -1,2 +1,11 @@
-lucky-word: LuckyNewValue
+---
+spring:
+  profiles: dev
+lucky-word: novo
+
+---
+spring:
+  profiles: prod
+lucky-word: aakash
+
 
