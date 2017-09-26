@@ -1,12 +1,3 @@
----
-spring:
-  profiles: dev
-  
-lucky-word: novo
-
----
-spring:
-  profiles: prod
-lucky-word: aakas
+lucky-word:Value1
 
 
