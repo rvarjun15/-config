@@ -7,6 +7,6 @@ lucky-word: novo
 ---
 spring:
   profiles: prod
-lucky-word: aakash
+lucky-word: aakas
 
 
